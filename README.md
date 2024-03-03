@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arbaz Basar</h1>
-<h3 align="center">A passionate development engineer</h3>
+<h3 align="center">A Passionate Development Engineer</h3>
 
 <img align="right" alt="coding" widht="400" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif">
 
