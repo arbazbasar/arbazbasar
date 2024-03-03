@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arbaz Basar</h1>
 <h3 align="center">A Passionate Development Engineer</h3>
 
-<img align="right" alt="coding" widht="400" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif">
+<img align="right" alt="coding" widht="400" src="https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbazbasar&label=Profile%20views&color=0e75b6&style=flat" alt="arbazbasar" /> </p>
 
